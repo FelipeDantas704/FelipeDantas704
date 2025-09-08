@@ -1,6 +1,6 @@
 ## Seja bem-vindo ao meu perfil👋
 
-Sou Felipe de Sousa e estou no 2 ano D
+Sou Felipe de Sousa e estou no 3 ano C
 
 - estou estudando na alura
 - Estou me desenvolvendo na lnguagem JavaScript
